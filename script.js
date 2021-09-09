@@ -35,9 +35,5 @@ for  (i = 0; i < 7 && i < countOfNumbers; i++) {
   }
 
  
-
-console.log(action);
-console.log(countOfNumbers);
-console.log(result);
 console.log(finalResult);
 alert(finalResult);
